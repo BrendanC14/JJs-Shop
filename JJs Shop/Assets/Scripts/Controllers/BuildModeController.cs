@@ -18,7 +18,7 @@ public class BuildModeController : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-
+        Debug.Log("");
     }
 
     // Update is called once per frame
